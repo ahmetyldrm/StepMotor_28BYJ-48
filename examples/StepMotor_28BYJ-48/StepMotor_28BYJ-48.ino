@@ -7,8 +7,8 @@
 StepMotor myStepMotor(4,5,6,7); // Set signal pins to 4, 5, 6, 7.
 
 void setup() {
-  //myStepMotor.set_steps_for_rev(8*64) // Set the steps count for one 360 degree turn.
-  // Default value is 8*64. You can get the value by 
+  //myStepMotor.set_steps_for_rev(512) // Set the steps count for one 360 degree turn.
+  // Default value is 512. You can get the value by 
   // "myStepMotor.get_steps_for_rev()" function.
   
   myStepMotor.set_direction(false); // Set direction to counter-clockwise (ccw).
