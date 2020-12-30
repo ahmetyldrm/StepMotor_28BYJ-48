@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For StepMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StepMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+set_delay	KEYWORD2
+get_delay	KEYWORD2
+set_direction	KEYWORD2
+get_direction	KEYWORD2
+set_steps_for_rev	KEYWORD2
+get_steps_for_rev	KEYWORD2
+one_step	KEYWORD2
+one_step_wo_flush	KEYWORD2
+flush	KEYWORD2
+step	KEYWORD2
+revolve	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+pins	LITERAL1
